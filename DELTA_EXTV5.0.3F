@@ -1,10 +1,12 @@
 {
- "version":"13",
+ "version":"14",
  "title":"🚨 Atualização disponível 🚨",
  "description":"✔ DELTA EXTREME V5.0.3F
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
  
+✅ Corrigido erro ao digitar o comando  
+( Wa.me/settings ) que faz seu zap crach se for digitado em grupo os usuários não consegue abrir
 
 🔶 Layout inicial como na versão anterior
 
@@ -19,3 +21,4 @@
 ❤ E muito mais recursos e melhorias!.",
 "download":"https://youtu.be/hujaRy31S40"
 }
+
