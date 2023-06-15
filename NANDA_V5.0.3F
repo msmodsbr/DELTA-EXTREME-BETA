@@ -1,23 +1,35 @@
 {
- "version":"13",
+ "version":"14",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA EXTREME FEM V5.0.3F
+ "description":"✔ DELTA EXTREME NEW V5.0.3F
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
  
-✅ Corrigido erro ao digitar o comando  
-( Wa.me/settings ) que faz seu zap crash se for digitado em grupo os usuários não consegue abrir o grupo
+✅ Adicionado : Novo about
 
-🔶 Layout inicial como na versão anterior
+✅ Adicionado : Opções de personalização movidos para o drawer!! ( Para Temas personalizados)
+1- Definir cabeçalho
+2- Definir cards (linhas)
+3- Definir placa nos cards
+4- Definir capa
+5- Definir placa nos status
+6- Definir placa nas tabs
+7- Definir tab inferior
+8- Definir wallpaper
+9- Definir wallpaper em chamadas
 
-🔶 Tabs em todos os estilos de layout inicial
+(Obs basta redefinir as configurações padrão para ele voltar ao estilo normal)
 
-🔶 Opção para : Cards personalizados ,Tabs personalizadas , Status personalizados
+✅ Adicionado : Opção de colocar um papel de parede em todos os estilos de layout inicial podendo desativar quando quiser.
 
-🔶 Novo card com opção de cor
+ ✅ Adicionado : Opção de colocar um papel de parede na chamada de voz podendo desativar quando quiser.
 
-🔶 Agora vocês podem criar seus temas personalizados
+✅ Adicionado : 3 Novos estilos de cards custom em conversas ,status,chamadas e em contatos.
+
+✅ Adicionado : Opção de ocultar ícone de comunidade nas tabs
+
+✅ Adicionado : Opção de mostra sua foto de perfil nas tabs
 
 ❤ E muito mais recursos e melhorias!.",
-"download":"https://youtu.be/rHtk1kM_8Mc"
+"download":"https://youtu.be/4nYpw9VCEDY"
 }
