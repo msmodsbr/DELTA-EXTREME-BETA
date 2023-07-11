@@ -1,20 +1,30 @@
 {
- "version":"5.1.0",
+ "version":"5.1.1",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA EXTREME V5.0.3F
+ "description":"✔ DELTA EXTREME V5.1.0
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+ 📆 11-07-2023
+
+ 🟡 Base:  2.23.9.75
+
+ 〰〰〰〰〰〰〰〰〰〰〰〰〰
+
+ ➖ O que há de novo em 5.1.0
  
 
-🔶 Layout inicial como na versão anterior
+🔵[Novo] Estilo de tela inicial padrão
 
-🔶 Tabs em todos os estilos de layout inicial
+🔵[Novo] Estilo de tab inicial padrão
 
-🔶 Opção para : Cards personalizados ,Tabs personalizadas , Status personalizados
+🔵[Novo] Desativado botão flutuante em chat por padrão
 
-🔶 Novo card com opção de cor
+🔵[Novo] Opção de ocultar texto em One ui e Paralax
 
-🔶 Agora vocês podem criar seus temas personalizados
+🔵[Novo] Opção de selecionar cor na borda do perfil em tabs
+
+🔵[Novo] Efeitos de queda desativado por padrão
+
+🔵[Readicinonado]  Todas as funções da versão EXTREME NEW 
 
 ❤ E muito mais recursos e melhorias!.",
 "download":"https://youtu.be/hujaRy31S40"
