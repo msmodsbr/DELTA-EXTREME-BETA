@@ -1,27 +1,31 @@
 {
  "version":"15",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA YOWA V5.1.0 🇧🇷
+ "description":"✔ DELTA EXTREME V5.1.0
 
-Base ATUALIZAÇÃO FMWA 9.71
+ 📆 11-07-2023
 
-🛑 Registro de alterações DELTA YOWA v5.1.0: 30 de junho de 2023
+ 🟡 Base:  2.23.9.75
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+ 〰〰〰〰〰〰〰〰〰〰〰〰〰
 
-✅ Adicionado mensagem falsa 
+ ➖ O que há de novo em 5.1.0
+ 
 
-✅ Adicionado Mostrar bate-papo original na mensagem editada 
+🔵 [Novo] Estilo de tela inicial padrão
 
-✅ Adicionado Enviar documentos, mídia, áudio de até 100 MB ou mais 
+🔵 [Novo] Estilo de tab inicial padrão
 
-✔ Fixo Ver a opção de Download único 
+🔵 [Novo] Desativado botão flutuante em chat por padrão
 
-✔ Fixo Marcar uma vez como opção aberta toast Online de Contato 
+🔵 [Novo] Opção de ocultar texto em One ui e Paralax
 
-✔Fixo (saiba quem está online) 
+🔵 [Novo] Opção de selecionar cor na borda do perfil em tabs
 
-✔Fixo arquivado não aparecendo na guia de grupos
-.",
-"download":"https://youtu.be/uXqrtNWUwkc"
+🔵 [Novo] Efeitos de queda desativado por padrão
+
+🔵 [Readicionado]  Todas as funções da versão EXTREME NEW 
+
+❤ E muito mais recursos e melhorias!.",
+"download":"https://youtu.be/p1WT4jB6cYo"
 }
