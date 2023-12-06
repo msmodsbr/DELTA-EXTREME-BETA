@@ -1,32 +1,35 @@
 {
-"version":"5.2.2",
+"version":"5.2",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA EXTREME V5.2.2F
+ "description":"✔ DELTA EXTREME V5.3.0B1
 
-🛑 Base FMWA 9.82
+🚨 Nova Atualização  🚨
 
- 📆 06/11/2023
+🔔 DELTA EXTREME V5.3.0B1
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+📆 06-12-2023
 
-🆕 Novidades em 5.2.2F
+🕐 Atualização básica: 2.23.21.88
 
-📛 [Novo] Adicionado Opção de DEFINIR RELÓGIO ANALÓGICO no Drawer
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-📛 [Novo] Adicionado Opções de selecionar relógios analógico e digital em todos os estilos de tela inicial 
+🆕 Novidades em v5.3.0b1
 
-📛 [Novo] Adicionado Opções de customização nos estilos de tela inicial Simples custom ,Tab esquerda cuatom e Tab direita custom
 
-📛 [Novo] Adicionado Opções mover cabeçalho ,stories ,tabs e botão fab para os novos estilos de tela inicial
+🆕 [Novo] Adicionada Opção de ocultar menu de personalização Delta Extreme no drawer
 
-📛 [Novo] Adicionado Opção de ocultar conversas arquivadas
+🆕 [Novo] Adicionada Opção de selecionar cor ao redor dos nomes nos status 
 
- 📛 [Novo] Adicionado Opção de ocultar stories para nos novos estilos de tela inicial
+🆕 [Novo] Adicionado 2 novos estilos de stories
 
-📛 [Novo] Adicionado Cartão V1 com opção e mover e personalizar 
+🆕 [Novo] Adicionado 9 novos estilos de relógio analógico
 
- ✅ [Corrigido ] Tab V7 não abria quando era selecionada
+🆕 [Novo] Adicionada Opção de ocultar borda no perfil dos cards (ocultada por padrão)
 
- ❤ E muito mais recursos e melhorias!.",
-"download":"https://youtu.be/yG9OSEg3dTg?si=0lu8gVpOQks2inSk"
+🆕 [Novo] Adicionada Opção de selecionar Placas no perfil das tabs
+
+🆕 [Novo] Adicionada Opção de selecionar relógio nas tabs 
+ 
+❤ [Mais] correções e melhorias importantes.",
+"download":"https://youtu.be/c2GHrUVlnr4?si=OW29IdsP8ndn5Qfy"
 }
